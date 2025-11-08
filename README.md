@@ -1,3 +1,5 @@
+#Train-Booking-System
+
 Train Booking System (Spring Boot + MySQL)
 A complete Train Ticket Booking System built using Spring Boot, MySQL, and RESTful APIs.
 This project allows users to search trains, book tickets, cancel bookings, view available trains, and more — all through a structured backend service ready for frontend integration (React, Angular, or any UI).
